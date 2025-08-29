@@ -1,0 +1,5 @@
+{
+  "name": "University of Birmingham QA Analyser 28",
+  "description": "Upload a screenshot of any data entry form, and this application will use AI to automatically generate detailed requirements and test scenarios for each field and button on the screen.  Add User Stories & Gherkin",
+  "requestFramePermissions": []
+}
